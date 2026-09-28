@@ -31,7 +31,7 @@ st.markdown(f"""
     .stApp header {{ background-color: transparent; }}
     h1 {{ color: {NAVY}; }}
     .app-header {{
-        background-color: {NAVY};
+        background-color: {green};
         padding: 1.3rem 1.6rem;
         border-radius: 10px;
         margin-bottom: 1.2rem;
@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>okan seyfi delimazı-05309256894-2022232030  Lab Projesi</p>
 </div>
 """, unsafe_allow_html=True)
 
