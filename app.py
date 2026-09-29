@@ -29,7 +29,7 @@ st.markdown(f"""
 <style>
     .main {{ background-color: #F4F7FA; }}
     .stApp header {{ background-color: transparent; }}
-    h1 {{ color: {PRİMARY}; }}
+    h1 {{ color: {PRIMARY}; }}
     .app-header {{
         background-color: {PRIMARY};
         padding: 1.3rem 1.6rem;
