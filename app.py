@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>okan seyfi delimazı-05309256894-2022232030  Lab Projesi</p>
+    <p>Okan Seyfi Delimazı-05309256894-2022232030  Lab Projesi</p>
 </div>
 """, unsafe_allow_html=True)
 
