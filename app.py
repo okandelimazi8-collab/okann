@@ -19,7 +19,7 @@ st.set_page_config(
     layout="centered",
 )
 
-PRIMARY = "#1F5C99"
+PRIMARY = "#34c9eb"
 NAVY = "#A5FC03"
 AMBER = "#E8A838"
 GREEN = "#2E7D32"
@@ -29,7 +29,7 @@ st.markdown(f"""
 <style>
     .main {{ background-color: #F4F7FA; }}
     .stApp header {{ background-color: transparent; }}
-    h1 {{ color: {NAVY}; }}
+    h1 {{ color: {PRİMARY}; }}
     .app-header {{
         background-color: {PRIMARY};
         padding: 1.3rem 1.6rem;
